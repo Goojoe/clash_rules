@@ -1,2 +1,2 @@
 # Telegram
-GEOIP,149.154.175.55
+IP-CIDR,149.154.175.0/24,no-resolve
