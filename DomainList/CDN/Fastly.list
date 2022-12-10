@@ -1,4 +1,14 @@
 # Fastly
+DOMAIN-KEYWORD,fastly
+DOMAIN-SUFFIX,fastly.com
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastlylabs.com
+DOMAIN-SUFFIX,fastlylb.net
+DOMAIN-SUFFIX,fastly-terrarium.com
+
+# Video.js CDN
+DOMAIN-SUFFIX,zencdn.net
+
 IPCIDR,23.235.32.0/20,no-resolve
 IPCIDR,43.249.72.0/22,no-resolve
 IPCIDR,103.244.50.0/24,no-resolve
