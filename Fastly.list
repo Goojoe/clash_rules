@@ -1,0 +1,23 @@
+# Fastly
+IPCIDR,23.235.32.0/20,no-resolve
+IPCIDR,43.249.72.0/22,no-resolve
+IPCIDR,103.244.50.0/24,no-resolve
+IPCIDR,103.245.222.0/23,no-resolve
+IPCIDR,103.245.224.0/24,no-resolve
+IPCIDR,104.156.80.0/20,no-resolve
+IPCIDR,140.248.64.0/18,no-resolve
+IPCIDR,140.248.128.0/17,no-resolve
+IPCIDR,146.75.0.0/17,no-resolve
+IPCIDR,151.101.0.0/16,no-resolve
+IPCIDR,157.52.64.0/18,no-resolve
+IPCIDR,167.82.0.0/17,no-resolve
+IPCIDR,167.82.128.0/20,no-resolve
+IPCIDR,167.82.160.0/20,no-resolve
+IPCIDR,167.82.224.0/20,no-resolve
+IPCIDR,172.111.64.0/18,no-resolve
+IPCIDR,185.31.16.0/22,no-resolve
+IPCIDR,199.27.72.0/21,no-resolve
+IPCIDR,199.232.0.0/16,no-resolve
+
+IPCIDR6,2a04:4e40::/32,no-resolve
+IPCIDR6,2a04:4e42::/32,no-resolve
