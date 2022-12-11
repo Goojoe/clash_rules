@@ -3,3 +3,4 @@ IP-CIDR,149.154.175.0/24,no-resolve
 
 # MS-Store
 PROCESS-NAME,WinStore.App.exe
+DOMAIN,tlu.dl.delivery.mp.microsoft.com
