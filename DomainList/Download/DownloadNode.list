@@ -10,3 +10,8 @@ DOMAIN,dl.google.com
 
 # sourceForge
 DOMAIN-SUFFIX,dl.sourceforge.net
+
+# KEYWORD
+DOMAIN-KEYWORD,dl
+DOMAIN-KEYWORD,download
+DOMAIN-KEYWORD,media
