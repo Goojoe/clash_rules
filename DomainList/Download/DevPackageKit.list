@@ -1,0 +1,31 @@
+# 包/软件下载地址,不含主域名
+
+# pip/pypi
+DOMAIN-KEYWORD,pypi
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pypi.python.org
+
+# Golang
+DOMAIN-SUFFIX,go.dev
+DOMAIN,pkg.go.dev
+DOMAIN-SUFFIX,goproxy.io
+
+# npmjs
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN,registry.npmjs.org
+DOMAIN-SUFFIX,nodejs.org
+
+# Docker
+DOMAIN,hub.docker.com
+DOMAIN-SUFFIX,docker.com
+
+# jetbrains
+DOMAIN,www.jetbrains.com
+DOMAIN-SUFFIX,jetbrains.com
+
+# vscode
+DOMAIN,code.visualstudio.com
+DOMAIN-SUFFIX,msecnd.net
+
+# Github
+DOMAIN-SUFFIX,githubusercontent.com
