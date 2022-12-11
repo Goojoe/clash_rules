@@ -29,4 +29,4 @@ DOMAIN,code.visualstudio.com
 DOMAIN-SUFFIX,msecnd.net
 
 # Github
-DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN,objects.githubusercontent.com
