@@ -4,6 +4,7 @@
 DOMAIN-KEYWORD,pypi
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pypi.python.org
+DOMAIN-SUFFIX,pythonhosted.org
 
 # Golang
 DOMAIN-SUFFIX,go.dev
