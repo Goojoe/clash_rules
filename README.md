@@ -3,6 +3,8 @@
 
 https://yattazen.com/tutorial/clash-custom-config.html
 
+[Subcovert教程](https://www.codein.icu/clashtutorial/#%E9%85%8D%E7%BD%AE-subconverter)
+
 订阅转换
 
 https://sub.dler.io/
